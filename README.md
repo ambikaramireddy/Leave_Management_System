@@ -1,3 +1,6 @@
+# 🌐 Live Demo
+
+🔗 [Leave Management System](https://leavemanagementsystem-guf24gway87wqy8jpqbmu3.streamlit.app/)
 # 📝 Leave Management System
 
 ## 📌 Project Overview
