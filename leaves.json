@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Raj",
+        "email": "raj.devops@gmail.com",
+        "leave_type": "Casual Leave",
+        "start_date": "2026-04-10",
+        "end_date": "2026-04-10",
+        "reason": "function",
+        "status": "Approved"
+    },
+    {
+        "id": 2,
+        "name": "Raj",
+        "email": "raj.devops@gmail.com",
+        "leave_type": "Casual Leave",
+        "start_date": "2026-04-10",
+        "end_date": "2026-04-10",
+        "reason": "function",
+        "status": "Approved"
+    },
+    {
+        "id": 3,
+        "name": "Vinay",
+        "email": "vinay.sales@gmail.com",
+        "leave_type": "Casual Leave",
+        "start_date": "2026-04-10",
+        "end_date": "2026-04-12",
+        "reason": "family function",
+        "status": "Approved"
+    },
+    {
+        "id": 4,
+        "name": "Vinay",
+        "email": "vinay.sales@gmail.com",
+        "leave_type": "Casual Leave",
+        "start_date": "2026-04-10",
+        "end_date": "2026-04-12",
+        "reason": "family function",
+        "status": "Rejected"
+    },
+    {
+        "id": 5,
+        "name": "Ramesh",
+        "email": "ramesh.hr@gmail.com",
+        "leave_type": "Casual Leave",
+        "start_date": "2026-04-14",
+        "end_date": "2026-04-30",
+        "reason": "marriage",
+        "status": "Approved"
+    }
+]

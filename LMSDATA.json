@@ -1,0 +1,267 @@
+[
+  {
+    "emp_id": "DEV001",
+    "name": "Arjun",
+    "email": "arjun.dev@gmail.com",
+    "password": "Dev@101",
+    "role": "employee",
+    "department": "Development"
+  },
+  {
+    "emp_id": "DEV002",
+    "name": "Rahul",
+    "email": "rahul.dev@gmail.com",
+    "password": "Dev@102",
+    "role": "employee",
+    "department": "Development"
+  },
+  {
+    "emp_id": "DEV003",
+    "name": "Sneha",
+    "email": "sneha.dev@gmail.com",
+    "password": "Dev@103",
+    "role": "employee",
+    "department": "Development"
+  },
+  {
+    "emp_id": "QA001",
+    "name": "Amit",
+    "email": "amit.qa@gmail.com",
+    "password": "Qa@101",
+    "role": "employee",
+    "department": "QA"
+  },
+  {
+    "emp_id": "QA002",
+    "name": "Neha",
+    "email": "neha.qa@gmail.com",
+    "password": "Qa@102",
+    "role": "employee",
+    "department": "QA"
+  },
+  {
+    "emp_id": "DO001",
+    "name": "Raj",
+    "email": "raj.devops@gmail.com",
+    "password": "Do@101",
+    "role": "employee",
+    "department": "DevOps"
+  },
+  {
+    "emp_id": "DO002",
+    "name": "Snehal",
+    "email": "snehal.devops@gmail.com",
+    "password": "Do@102",
+    "role": "employee",
+    "department": "DevOps"
+  },
+  {
+    "emp_id": "PM001",
+    "name": "Sandeep",
+    "email": "sandeep.pm@gmail.com",
+    "password": "Pm@101",
+    "role": "employee",
+    "department": "Product"
+  },
+  {
+    "emp_id": "PM002",
+    "name": "Ritika",
+    "email": "ritika.pm@gmail.com",
+    "password": "Pm@102",
+    "role": "employee",
+    "department": "Product"
+  },
+  {
+    "emp_id": "UX001",
+    "name": "Ananya",
+    "email": "ananya.ux@gmail.com",
+    "password": "Ux@101",
+    "role": "employee",
+    "department": "UI/UX"
+  },
+  {
+    "emp_id": "UX002",
+    "name": "Mohit",
+    "email": "mohit.ux@gmail.com",
+    "password": "Ux@102",
+    "role": "employee",
+    "department": "UI/UX"
+  },
+  {
+    "emp_id": "HR001",
+    "name": "Bhargavi",
+    "email": "bhargavi.hr@gmail.com",
+    "password": "Hr@101",
+    "role": "employee",
+    "department": "HR"
+  },
+  {
+    "emp_id": "HR002",
+    "name": "Ramesh",
+    "email": "ramesh.hr@gmail.com",
+    "password": "Hr@102",
+    "role": "employee",
+    "department": "HR"
+  },
+  {
+    "emp_id": "SA001",
+    "name": "Vinay",
+    "email": "vinay.sales@gmail.com",
+    "password": "Sa@101",
+    "role": "employee",
+    "department": "Sales"
+  },
+  {
+    "emp_id": "SA002",
+    "name": "Reshma",
+    "email": "reshma.sales@gmail.com",
+    "password": "Sa@102",
+    "role": "employee",
+    "department": "Sales"
+  },
+  {
+    "emp_id": "CS001",
+    "name": "Rohini",
+    "email": "rohini.support@gmail.com",
+    "password": "Cs@101",
+    "role": "employee",
+    "department": "Support"
+  },
+  {
+    "emp_id": "CS002",
+    "name": "Bharath",
+    "email": "bharath.support@gmail.com",
+    "password": "Cs@102",
+    "role": "employee",
+    "department": "Support"
+  },
+
+  {
+    "emp_id": "DEV011",
+    "name": "Aditya",
+    "email": "aditya.dev@gmail.com",
+    "password": "Dev@111",
+    "role": "employee",
+    "department": "Development"
+  },
+  {
+    "emp_id": "DEV012",
+    "name": "Kavya",
+    "email": "kavya.dev@gmail.com",
+    "password": "Dev@112",
+    "role": "employee",
+    "department": "Development"
+  },
+  {
+    "emp_id": "QA011",
+    "name": "Harish",
+    "email": "harish.qa@gmail.com",
+    "password": "Qa@111",
+    "role": "employee",
+    "department": "QA"
+  },
+  {
+    "emp_id": "QA012",
+    "name": "Pavani",
+    "email": "pavani.qa@gmail.com",
+    "password": "Qa@112",
+    "role": "employee",
+    "department": "QA"
+  },
+  {
+    "emp_id": "DO011",
+    "name": "Tejas",
+    "email": "tejas.devops@gmail.com",
+    "password": "Do@111",
+    "role": "employee",
+    "department": "DevOps"
+  },
+  {
+    "emp_id": "DO012",
+    "name": "Sowmya",
+    "email": "sowmya.devops@gmail.com",
+    "password": "Do@112",
+    "role": "employee",
+    "department": "DevOps"
+  },
+  {
+    "emp_id": "PM011",
+    "name": "Aravind",
+    "email": "aravind.pm@gmail.com",
+    "password": "Pm@111",
+    "role": "employee",
+    "department": "Product"
+  },
+  {
+    "emp_id": "PM012",
+    "name": "Deepika",
+    "email": "deepika.pm@gmail.com",
+    "password": "Pm@112",
+    "role": "employee",
+    "department": "Product"
+  },
+  {
+    "emp_id": "UX011",
+    "name": "Rahul Verma",
+    "email": "rahulverma.ux@gmail.com",
+    "password": "Ux@111",
+    "role": "employee",
+    "department": "UI/UX"
+  },
+  {
+    "emp_id": "UX012",
+    "name": "Nandini",
+    "email": "nandini.ux@gmail.com",
+    "password": "Ux@112",
+    "role": "employee",
+    "department": "UI/UX"
+  },
+  {
+    "emp_id": "HR011",
+    "name": "Sowjanya",
+    "email": "sowjanya.hr@gmail.com",
+    "password": "Hr@111",
+    "role": "employee",
+    "department": "HR"
+  },
+  {
+    "emp_id": "HR012",
+    "name": "Pradeep",
+    "email": "pradeep.hr@gmail.com",
+    "password": "Hr@112",
+    "role": "employee",
+    "department": "HR"
+  },
+  {
+    "emp_id": "SA011",
+    "name": "Lokesh",
+    "email": "lokesh.sales@gmail.com",
+    "password": "Sa@111",
+    "role": "employee",
+    "department": "Sales"
+  },
+  {
+    "emp_id": "SA012",
+    "name": "Anusha",
+    "email": "anusha.sales@gmail.com",
+    "password": "Sa@112",
+    "role": "employee",
+    "department": "Sales"
+  },
+  {
+    "emp_id": "CS011",
+    "name": "Chandra",
+    "email": "chandra.support@gmail.com",
+    "password": "Cs@111",
+    "role": "employee",
+    "department": "Support"
+  },
+  {
+    "emp_id": "CS012",
+    "name": "Madhavi",
+    "email": "madhavi.support@gmail.com",
+    "password": "Cs@112",
+    "role": "employee",
+    "department": "Support"
+  }
+]
